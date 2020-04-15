@@ -15,4 +15,4 @@ Find which courses are open with Python
 5. Run the File  
 `python3 courseSearch.py`
 6. Wait to receive push notification through PushBullet
-7. Once PushBullet arrives for any class, make sure to update course list and run file again because the program stops. 
+7. Once PushBullet arrives for any class, make sure to update course list and run file again because the program stops once a class is found open. 
